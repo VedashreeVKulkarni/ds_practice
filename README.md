@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
