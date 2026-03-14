@@ -10,5 +10,4 @@ class Solution:
             stack.append(num)
         for num in nums1:
             result.append(next_greater.get(num, -1))
-
         return result
