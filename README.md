@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
