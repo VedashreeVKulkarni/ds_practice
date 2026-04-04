@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
