@@ -8,6 +8,5 @@ class Solution:
                 l=max(l,seen[s[r]]+1)
             seen[s[r]]=r
             count=max(count,r-l+1)    
-           
         return count            
         
