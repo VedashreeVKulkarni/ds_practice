@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
+| [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0344-reverse-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
