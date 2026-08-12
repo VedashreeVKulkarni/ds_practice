@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0503-next-greater-element-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
