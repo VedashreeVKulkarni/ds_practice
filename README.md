@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0645-set-mismatch) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
+| [3731-find-missing-elements](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
