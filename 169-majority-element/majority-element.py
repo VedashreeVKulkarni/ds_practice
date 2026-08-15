@@ -1,8 +1,11 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        nums.sort()
-        low=0
-        high=len(nums)-1
-        mid=(high+low)//2
-        return nums[mid]
-        
+     count = {}
+     for num in nums:  
+       if num in count:
+        count[num] += 1
+       else:
+         count[num] = 1
+     for num in count:
+        if count[num]>len(nums)//2:
+          return num
