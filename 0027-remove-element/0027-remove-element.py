@@ -4,8 +4,6 @@ class Solution:
         for j in range(len(nums)):
           if nums[j]!=val:
             nums[i]=nums[j]
-            i+=1
-          else:
-            j+=1  
+            i+=1 
         return i  
         
