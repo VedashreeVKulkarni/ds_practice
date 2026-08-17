@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1480-running-sum-of-1d-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
