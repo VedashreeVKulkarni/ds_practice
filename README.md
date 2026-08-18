@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0704-binary-search) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0645-set-mismatch) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1480-running-sum-of-1d-array) |
 ## String
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
