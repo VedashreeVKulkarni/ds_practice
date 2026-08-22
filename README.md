@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1480-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0645-set-mismatch) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3731-find-missing-elements) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
