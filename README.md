@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0680-valid-palindrome-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0680-valid-palindrome-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
