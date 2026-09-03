@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0680-valid-palindrome-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
