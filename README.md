@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3731-find-missing-elements) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0680-valid-palindrome-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
