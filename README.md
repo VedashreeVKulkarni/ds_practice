@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
