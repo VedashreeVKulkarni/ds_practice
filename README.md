@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0503-next-greater-element-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0560-subarray-sum-equals-k) |
