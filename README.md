@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0875-koko-eating-bananas) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1480-running-sum-of-1d-array) |
