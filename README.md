@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0042-trapping-rain-water) |
+| [0227-basic-calculator-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0503-next-greater-element-ii) |
