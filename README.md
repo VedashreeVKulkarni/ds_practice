@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
