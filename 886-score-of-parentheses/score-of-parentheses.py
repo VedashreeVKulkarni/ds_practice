@@ -12,5 +12,5 @@ class Solution:
             else:
                 score=2*A
             stack[-1]+=score    
-        return stack[0]          
+        return stack[-1]          
         
