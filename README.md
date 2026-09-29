@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0844-backspace-string-compare) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
