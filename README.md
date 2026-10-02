@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1544-make-the-string-great) |
 | [2351-first-letter-to-appear-twice](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
