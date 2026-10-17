@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0707-design-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
