@@ -23,9 +23,4 @@ class Solution:
             first.next=second 
             second.next=temp1
             first=temp1
-            second=temp2
-
-
-        
-   
-        
+            second=temp2     
