@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0202-happy-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0316-remove-duplicate-letters) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0509-fibonacci-number) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0876-middle-of-the-linked-list) |
