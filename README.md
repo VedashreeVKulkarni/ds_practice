@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0136-single-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0232-implement-queue-using-stacks) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0503-next-greater-element-ii) |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0876-middle-of-the-linked-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
