@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0577-employee-bonus) |
