@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3731-find-missing-elements](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -414,4 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
