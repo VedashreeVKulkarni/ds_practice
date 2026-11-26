@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0523-continuous-subarray-sum) |
+| [3360-stone-removal-game](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3360-stone-removal-game](https://github.com/VedashreeVKulkarni/ds_practice/tree/master/3360-stone-removal-game) |
 ## Database
 |  |
 | ------- |
